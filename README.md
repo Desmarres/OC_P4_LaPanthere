@@ -34,7 +34,7 @@ Sophie Vasseur - Fondatrice de l'agence La Panthère
 
 ## Pour voir le site
 
-[Lien vers le déploiement du projet Ohmyfood](https://desmarres.github.io/OC_P4_LaPanthere/)
+[Lien vers le déploiement du projet La PAnthère](https://desmarres.github.io/OC_P4_LaPanthere/)
 
 ## Technologie
 
