@@ -817,14 +817,46 @@ h4 {
     background-image: url("img/lines-h2-bg.webp");
 }
 
-.bg-banniere {
-    background-image: url("img/agence-la-panthere.webp");
+@media screen and (min-width: 1024px) {
+    .bg-banniere,.bg-banniere-cta {
+        background-image: url("img/agence-la-panthere.webp");
+    }
+
+    .bg-presentation {
+        background-image: url("img/image-de-presentation.webp");
+    }
+    
 }
 
-.bg-presentation {
-    background-image: url("img/image-de-presentation.webp");
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    .bg-banniere {
+        background-image: url("img/agence-la-panthere--1024.webp");
+    }
+    
+    .bg-banniere-cta {
+        background-image: url("img/agence-la-panthere--1024-cta.webp");
+    }
+    
+    .bg-presentation {
+        background-image: url("img/image-de-presentation--1024.webp");
+    }
+    
 }
 
+@media screen and (max-width: 767px) {
+    .bg-banniere {
+        background-image: url("img/agence-la-panthere--768.webp");
+    }
+    
+    .bg-banniere-cta {
+        background-image: url("img/agence-la-panthere--768-cta.webp");
+    }
+    
+    .bg-presentation {
+        background-image: url("img/image-de-presentation--768.webp");
+    }
+    
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
