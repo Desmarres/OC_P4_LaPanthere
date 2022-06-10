@@ -715,6 +715,7 @@ footer{
 }
 
 .footer__liste{
+    margin: auto;
     margin-top: 50px;
 }
 
