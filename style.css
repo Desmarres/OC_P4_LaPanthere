@@ -677,7 +677,37 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
+}
+
+.bloc-2-services__titre{
+    font-size: 22px;
+    font-weight: 500;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.bloc-2-services__citation{
+    font-size: 20px;
+    font-style: italic;
+    width: 60%;
+    margin: auto;
+    padding-top: 80px;
+}
+
+.bloc-2-services__signature{
+    font-size: 18px;
+    width: 50%;
+    margin: auto;
+}
+
+.bloc-4-portfolio__titre{
+    font-size: 22px;
+    font-weight: 500;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
 }
 
 .tight-width-whitespace {
