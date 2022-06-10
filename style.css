@@ -710,6 +710,14 @@ p {
     padding-bottom: 20px;
 }
 
+.footer__liste{
+    margin-top: 50px;
+}
+
+.footer__liste li{
+    margin: 10px 0;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
